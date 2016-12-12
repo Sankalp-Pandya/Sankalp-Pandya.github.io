@@ -1,0 +1,49 @@
+.bg-1
+{
+    background-color: #f9fbe7;
+    
+}
+.bg-2
+{
+    background-color: #f9fbe7;
+    
+}
+
+.bg-3
+{
+    background-color: #f9fbe7;
+    
+}
+.bg-4
+{
+    background-color:#f9fbe7;
+    
+}
+.bg-5
+{
+    background-color: #f9fbe7;
+}
+
+.container-fluid
+{
+    margin-left:50px;
+    margin-right: 50px;
+    
+
+}
+
+hr
+{
+    border-width: 5px;;
+    border-top-color: black;
+}
+
+.img-center
+{
+    box-shadow: 0 5px 6px rgba(2, 2, 5, 0.3);
+}
+p
+{
+    font-style: italic;
+    font-size: 20px;
+}
